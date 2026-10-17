@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplikasi To-Do List
 
 ## Deskripsi
@@ -26,3 +27,7 @@ Data tugas disimpan di `$_SESSION`, sehingga akan kembali ke daftar awal jika se
 
 ## Kontributor
 - [Nama Anda](https://github.com/username)
+=======
+# my-daily-tasks
+ToDoList
+>>>>>>> 88c1848e854d3c8e7bb1b305441dbf7208a406e7
